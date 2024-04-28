@@ -14,13 +14,13 @@ all other images are residual for code running purpose and can be ignored.
 
 # For using the .py files
 
-# For Compressing
+## For Compressing
 open terminal 
     python image_compressor.py "input_image_path"
 
 "compressed_background.png" and "compressed_background.jpg" will be generated
 
-# For Decompressing 
+## For Decompressing 
 open terminal
     python decompressor.py "compressed_foreground" "compressed_background"
 
